@@ -25,7 +25,7 @@
     * Discovered that there are more points with low outcome price and low spread compared to high outcome price and low spread
       * Noticed general preference for ones with low outcome prices as the lottery and behavior to lower risk of losing
 
-## 6. How to Run
+## 4. How to Run
 This project is designed to be executed in **Google Colab** for an optimized data analysis environment.
 
 1. Open the `.ipynb` file in this repository.
