@@ -1,4 +1,3 @@
-<img width="1005" height="707" alt="unnamed (1)" src="https://github.com/user-attachments/assets/4f41267e-83dc-40fc-8b33-95de22338119" />
 # Polymarket Analysis
 
 > Conducted Behavior Analysis of Polymarket
