@@ -1,11 +1,11 @@
 # [Polymarket Analysis]
 
-> A brief one-sentence description of the project.
+> Conducted Behavior Analysis of Polymarket
 
 ## 1. Project Overview
 *   **Duration**: [January, 2026] – [February, 2026]
 *   **Role**: [Researcher, Analyst]
-*   **Goal**: [To uncover hidden correlation behing market and event outcomes through visualization of Polymarket’s large-scale datasets]
+*   **Goal**: [To uncover hidden correlation behind market and event outcomes through visualization of Polymarket’s large-scale datasets]
 
 ## 2. Tech Stack & Environment
 *   **Language**: Python
