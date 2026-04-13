@@ -19,6 +19,7 @@
       * Interpreted as people may unconsciously believe that the outcome is clear when the outcome price is high, but not, or less, when the outcome price is low
     * Observed many points with low competitiveness when outcome price = 0.5
       * Noticed potential behavior to avoid risk
+      <img width="846" height="547" alt="unnamed" src="https://github.com/user-attachments/assets/6f9d9127-a96b-4147-a26d-9779f05afd31" />
 *   **Market Spread**
     * Spotted points with large spread, close to 1, where outcome price = 0.5
       * Concluded those points as abandoned market, which people are not interested in, as the market starts with a large spread along with outcome price = 0.5
