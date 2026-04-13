@@ -1,3 +1,4 @@
+<img width="1005" height="707" alt="unnamed (1)" src="https://github.com/user-attachments/assets/4f41267e-83dc-40fc-8b33-95de22338119" />
 # Polymarket Analysis
 
 > Conducted Behavior Analysis of Polymarket
@@ -25,6 +26,8 @@
       * Concluded those points as abandoned market, which people are not interested in, as the market starts with a large spread along with outcome price = 0.5
     * Discovered that there are more points with low outcome price and low spread compared to high outcome price and low spread
       * Noticed general preference for ones with low outcome prices as the lottery and behavior to lower risk of losing
+      <img width="1005" height="707" alt="unnamed (1)" src="https://github.com/user-attachments/assets/8586c512-17c6-4d36-9f26-213a49deb265" />
+
 
 ## 4. How to Run
 This project is designed to be executed in **Google Colab** for an optimized data analysis environment.
